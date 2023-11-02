@@ -1,5 +1,6 @@
 import React from "react";
 import { FaArrowCircleRight } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const EventCard = ({ e }) => {
   console.log(e);
@@ -14,7 +15,7 @@ const EventCard = ({ e }) => {
 
         <h2 className="card-title text-left">{name}</h2>
         <p>If a dog chews shoes whose shoes does he choose?</p>
-        <button className="btn btn-primary " data-aos="fade-up">Learm More <FaArrowCircleRight></FaArrowCircleRight></button>
+        <button className="btn btn-primary " data-aos="fade-up"> <Link to='/newsdetails'>Learm More </Link> <FaArrowCircleRight></FaArrowCircleRight></button>
        
       </div>
     </div>

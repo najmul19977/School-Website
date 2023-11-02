@@ -28,6 +28,7 @@ import PhotoGallery from './PhotoGallery/PhotoGallery.jsx';
 import ReactTab from './ReactTab/ReactTab.jsx';
 import AdmissionNotice from './AdmissionNotice/AdmissionNotice.jsx';
 import ContactForm from './ContactForm/ContactForm.jsx';
+import NewsDetails from './NewsDetails/NewsDetails.jsx';
 
 
 const router = createBrowserRouter([
@@ -115,6 +116,10 @@ const router = createBrowserRouter([
       {
         path:'contactform',
         element:<ContactForm></ContactForm>
+      },
+      {
+        path:'newsdetails',
+        element:<NewsDetails></NewsDetails>
       }
 
     ]
