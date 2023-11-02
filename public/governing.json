@@ -1,0 +1,112 @@
+[
+    {
+        "_id":"01",
+        "name":"Najmul Ali",
+        "gender":"Male",
+        "subjects":"ict",
+        "images":"https://i.ibb.co/CHf3m3C/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"02",
+        "name":"Sadia Islam",
+        "gender":"Female",
+        "subjects":"English",
+        "images":"https://i.ibb.co/SwbQ64F/christina-wocintechchat-com-0-Zx1b-Dv5-BNY-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"03",
+        "name":"Ali Mia",
+        "gender":"Male",
+        "subjects":"Bangla",
+        "images":"https://i.ibb.co/CHf3m3C/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"04",
+        "name":"Najmul Kabir",
+        "gender":"Male",
+        "subjects":"Science",
+        "images":"https://i.ibb.co/CHf3m3C/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"05",
+        "name":"Afroza Bagum",
+        "gender":"Female",
+        "subjects":"ict",
+        "images":"https://i.ibb.co/SwbQ64F/christina-wocintechchat-com-0-Zx1b-Dv5-BNY-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"06",
+        "name":"Saiful Islam",
+        "gender":"Male",
+        "subjects":"Social Science",
+        "images":"https://i.ibb.co/CHf3m3C/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"07",
+        "name":"Nahid Khan",
+        "gender":"Male",
+        "subjects":"English",
+        "images":"https://i.ibb.co/CHf3m3C/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"08",
+        "name":"Firoje Mia",
+        "gender":"Bangla",
+        "subjects":"ict",
+        "images":"https://i.ibb.co/CHf3m3C/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"09",
+        "name":"Najmul Kabir",
+        "gender":"Male",
+        "subjects":"Math",
+        "images":"https://i.ibb.co/CHf3m3C/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    },
+    {
+        "_id":"10",
+        "name":"Najmul Ali",
+        "gender":"Male",
+        "subjects":"ict",
+        "images":"https://i.ibb.co/CHf3m3C/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "email":"abc123@gmail.com",
+        "phone":"+1230000000"
+        
+        
+    }
+]
